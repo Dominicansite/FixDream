@@ -128,15 +128,6 @@ sudo systemctl restart nginx
 
 ## **Resumen**
 
-Tras realizar este análisis y aplicar las soluciones, las pruebas mostraron mejoras en el rendimiento y estabilidad del sistema. Las principales acciones realizadas fueron:
+Esta informacion es agregada yya fueron organizada con ChatGPT para que tengas un mejor entendimiento, aparte agregandole el copy para que te facilite tomar el codigo e implementarlo. Toda esa informacion la saque haciendo console y investigando los posible errores, como te habia dicho tengo conocimientos de programacion y Console F12 de los navegadores aportan mucho a los posibles errores de la web. Espero que esto te facilite el error que tienes con el 504
 
-1. **Optimizar las solicitudes AJAX** en el frontend con intervalos más largos y debouncing.
-2. **Manejar errores JSON** correctamente para evitar fallos inesperados.
-3. **Optimizar consultas SQL** y aplicar caché en el backend.
-4. **Ajustar el tiempo máximo de ejecución** en PHP.
-5. **Configurar tiempos de espera adecuados** en el servidor web.
-6. **Monitorear los recursos del servidor** para prevenir sobrecarga.
-7. **Limitar conexiones simultáneas** para mejorar la estabilidad.
-
-Estos cambios ayudaron a solucionar el error 504 y optimizar el funcionamiento del sistema. Seguiré monitoreando el desempeño para detectar posibles mejoras adicionales.
 
