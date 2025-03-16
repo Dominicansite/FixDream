@@ -1,0 +1,824 @@
+lockdown-install.js:1 Removing unpermitted intrinsics
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/Whisper-BLK/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+loadWhisper @ chat/:4141
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_touch/system/modal.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+(anonymous) @ chat/:4690
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_buzz/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+testsendbuzzs @ chat/:4558
+vi-tr.js:1 
+            
+            
+           POST https://otakus-dream.com/chat/addons/bx_sound/system/action.php 504 (Gateway Timeout)
+XMLHttpRequest.send @ vi-tr.js:1
+s.XMLHttpRequest.send @ requests.js:1
+send @ jquery-3.5.1.min.js?v=2.55:2
+ajax @ jquery-3.5.1.min.js?v=2.55:2
+S.<computed> @ jquery-3.5.1.min.js?v=2.55:2
+checkAndPlaySound @ chat/:4964
